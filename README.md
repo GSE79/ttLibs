@@ -17,13 +17,13 @@ Adherence to basic ttControls controls concepts gaurantees real-time performance
 # ttOpSys
 Source, Libs, and Example Applications for uC, PC, and Server based products with an operating system.
 
-This library extends the ttBareBones library with features like:
--  Applications as Services
+ttOpSys extends the ttBareBones library with features like:
+-  Services
 -  File Systems
 -  Inter-process communication
--  Network Stacks and Networking
--  Threads for "parellel" execution
--  Web User-Interfaces
+-  Networking
+-  Threads
+-  and Web User-Interfaces
 
 ttOpSys depends on Standard Libraries, un-like ttBareBones.
 
